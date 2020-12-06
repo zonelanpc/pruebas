@@ -1,6 +1,6 @@
 ##Descargamos una versión concreta de UBUNTU, a través del tag
 FROM ubuntu:12.04
-MAINTAINER Apasoft Formacion "apasoft.formacion@gmail.com"
+MAINTAINER kballa.dev "nacho.fernandez@kballa.dev"
 ##Actualizamos el sistema
 RUN apt-get update
 ##Instalamos nginx
